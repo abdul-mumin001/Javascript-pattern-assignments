@@ -23,3 +23,5 @@ for(let n=1;n<=5;n++){
   }
   console.log(stars)
 }
+
+// https://github.com/abdul-mumin001/Javascript-pattern-assignments
